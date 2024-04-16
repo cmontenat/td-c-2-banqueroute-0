@@ -1,0 +1,5 @@
+D:\_Rentree-2011\SIO-SI4\P4_POO\Suite_POO\libBanque\bin\Debug\libBanque.dll
+D:\_Rentree-2011\SIO-SI4\P4_POO\Suite_POO\libBanque\bin\Debug\libBanque.pdb
+D:\_Rentree-2011\SIO-SI4\P4_POO\Suite_POO\libBanque\obj\Debug\ResolveAssemblyReference.cache
+D:\_Rentree-2011\SIO-SI4\P4_POO\Suite_POO\libBanque\obj\Debug\libBanque.dll
+D:\_Rentree-2011\SIO-SI4\P4_POO\Suite_POO\libBanque\obj\Debug\libBanque.pdb

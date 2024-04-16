@@ -1,0 +1,5 @@
+C:\ProgramFiles\Oculus\Support\oculus-drivers\oculus-driver.exe\libBanque\AppWindoBanque\AppWindoBanque\obj\Debug\AppWindoBanque.csproj.AssemblyReference.cache
+C:\ProgramFiles\Oculus\Support\oculus-drivers\oculus-driver.exe\libBanque\AppWindoBanque\AppWindoBanque\obj\Debug\AppWindoBanque.BanqueForm.resources
+C:\ProgramFiles\Oculus\Support\oculus-drivers\oculus-driver.exe\libBanque\AppWindoBanque\AppWindoBanque\obj\Debug\AppWindoBanque.Properties.Resources.resources
+C:\ProgramFiles\Oculus\Support\oculus-drivers\oculus-driver.exe\libBanque\AppWindoBanque\AppWindoBanque\obj\Debug\AppWindoBanque.csproj.GenerateResource.cache
+C:\ProgramFiles\Oculus\Support\oculus-drivers\oculus-driver.exe\libBanque\AppWindoBanque\AppWindoBanque\obj\Debug\AppWindoBanque.csproj.CoreCompileInputs.cache
